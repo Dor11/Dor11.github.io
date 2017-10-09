@@ -1,0 +1,30 @@
+
+
+
+
+
+h1 { 
+ font-size: 250%;
+     font-weight: bold;
+	color: black; 
+	
+}
+
+body {
+	background: blue;
+	color: white;
+	front-size: 25pt;
+	font-family: 'vollkorn', serif;
+}
+
+li { 
+border: 2px solid black }
+
+nav li { display: inline-block }
+
+
+
+a { color: white }
+
+
+

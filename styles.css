@@ -20,7 +20,10 @@ body {
 li { 
 border: 2px solid black }
 
-nav li { display: inline-block }
+nav a { display: block;
+		border: 1px solid white; 
+		padding: 5px;
+	 }
 
 
 
